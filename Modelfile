@@ -1,0 +1,1 @@
+FROM ./qwen_java_gguf_gguf/qwen2.5-coder-3b.Q4_K_M.gguf
